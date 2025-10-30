@@ -1,0 +1,41 @@
+.container
+{
+    width: 512px;
+    height: 308px;
+    border: 2px solid;
+    margin: 30px auto;
+    box-sizing: border-box;
+    display: flex;
+    /* padding: 1px; */
+}
+
+
+.container div
+{
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    /* border: 1px solid; */
+}
+
+.kotaksatu
+{
+
+    align-self: flex-end;
+    /* border: 1px solid; */
+}
+
+.kotakdua
+{
+    align-self: center;
+    /* border: 1px solid; */
+}
+
+.kotakempat
+{
+    align-self: flex-end;
+}
+.kotaktiga
+{
+    align-self: flex-end;
+}
